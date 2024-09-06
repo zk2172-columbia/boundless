@@ -34,3 +34,19 @@ This dataset was used for the experimental results presented above.
 ### CARLA dataset
 
 [Download (Google Drive)](https://drive.google.com/file/d/1IXrtJHkTDGGnnmtF_HCdl_lFVF2WIvBa/view?usp=sharing)
+
+### Acknowledgements
+
+If you use Boundless, pre-trained models or datasets in a scientific publication, we would greatly appreciate using the following citation:
+
+```
+@misc{turkcan2024boundlessgeneratingphotorealisticsynthetic,
+      title={Boundless: Generating Photorealistic Synthetic Data for Object Detection in Urban Streetscapes}, 
+      author={Mehmet Kerem Turkcan and Ian Li and Chengbo Zang and Javad Ghaderi and Gil Zussman and Zoran Kostic},
+      year={2024},
+      eprint={2409.03022},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2409.03022}, 
+}
+```
